@@ -1,0 +1,11 @@
+D:\Program\Comp203A1\bin\Debug\netcoreapp2.1\Comp203A1.deps.json
+D:\Program\Comp203A1\bin\Debug\netcoreapp2.1\Comp203A1.runtimeconfig.json
+D:\Program\Comp203A1\bin\Debug\netcoreapp2.1\Comp203A1.runtimeconfig.dev.json
+D:\Program\Comp203A1\bin\Debug\netcoreapp2.1\Comp203A1.dll
+D:\Program\Comp203A1\bin\Debug\netcoreapp2.1\Comp203A1.pdb
+D:\Program\Comp203A1\obj\Debug\netcoreapp2.1\Comp203A1.csprojAssemblyReference.cache
+D:\Program\Comp203A1\obj\Debug\netcoreapp2.1\Comp203A1.csproj.CoreCompileInputs.cache
+D:\Program\Comp203A1\obj\Debug\netcoreapp2.1\Comp203A1.AssemblyInfoInputs.cache
+D:\Program\Comp203A1\obj\Debug\netcoreapp2.1\Comp203A1.AssemblyInfo.cs
+D:\Program\Comp203A1\obj\Debug\netcoreapp2.1\Comp203A1.dll
+D:\Program\Comp203A1\obj\Debug\netcoreapp2.1\Comp203A1.pdb
